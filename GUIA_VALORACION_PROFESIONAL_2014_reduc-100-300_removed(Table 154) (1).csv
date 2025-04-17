@@ -1,28 +1,43 @@
-Código CNO-11:  2713;ANALISTAS, PROGRAMADORES Y DISEÑADORES WEB Y MULTIMEDIA;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
-
 Código CNO-11:  2943;ALBAÑILES;;;;;;;;;
 Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
-Carga f�sica,X,,,
-Carga biomec�nica,,,,
+Carga física,,,,X
+Carga biomecánica,,,,
+Columna cervical,,,,X
+Columna dorsolumbar,,,X,
+Hombro,,,X,
+Codo,,,X,
+Mano,,,X,
+Cadera,,,X,
+Rodilla,,,X,
+Tobillo/pie,,,,X
+Manejo de cargas,,,,X
+Trabajo de precisión,,,X,
+Sedestación,X,,,
+Bipedestación,,,,
+Estática,,X,,
+Dinámica,,,X,
+Marcha por terreno irregular,,,X,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,X,,,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
+
+Código CNO-11:  1234;CARPINTEROS;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
 Columna cervical,,X,,
 Columna dorsolumbar,,X,,
 Hombro,,X,,
@@ -32,257 +47,530 @@ Cadera,X,,,
 Rodilla,X,,,
 Tobillo/pie,X,,,
 Manejo de cargas,X,,,
-Trabajo de precisi�n,,X,,
-Sedestaci�n,,,X,
-Bipedestaci�n,,,,
-Est�tica,X,,,
-Din�mica,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
 Marcha por terreno irregular,X,,,
 Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
 Carga mental,,,,
-Comunicaci�n,,,X,
-Atenci�n al p�blico,,X,,
+Comunicación,,,X,
+Atención al público,,X,,
 Toma de decisiones,,,X,
-Atenci�n/complejidad,,,,
+Atención/complejidad,,,,
 Apremio,,X,,
 Dependencia,,X,,
-Visi�n,,,,
+Visión,,,,
 Agudeza visual,,,X,
 Campo visual,,X,,
-Audici�n,,X,,
+Audición,,X,,
 Voz,,X,,
 Sensibilidad,,,,
 Superficial,,X,,
 Profunda,X,,,
 
+Código CNO-11:  4897;CHOFERES;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  2363;CARPINTEROS;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  6478;ALBAÑILES ESTELARES;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,,X,,
+Carga biomecánica,,,,
+Columna cervical,X,,,
+Columna dorsolumbar,X,,,
+Hombro,X,,,
+Codo,X,,,
+Mano,,X,,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,,X,,
+Manejo de cargas,,X,,
+Trabajo de precisión,,,,X
+Sedestación,X,,,
+Bipedestación,,,,
+Estática,,X,,
+Dinámica,X,,,
+Marcha por terreno irregular,,X,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,X,,,
+Atención al público,X,,,
+Toma de decisiones,,,,X
+Atención/complejidad,,,,
+Apremio,,,X,
+Dependencia,,,X,
+Visión,,,,
+Agudeza visual,,,,X
+Campo visual,,,,X
+Audición,,,X,
+Voz,X,,,
+Sensibilidad,,,,
+Superficial,,,,X
+Profunda,,,,X
 
-Código CNO-11:  2746;CERRAJEROS;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  4679;ALBAÑILES CÓSMICOS;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,X,,,
+Columna dorsolumbar,X,,,
+Hombro,X,,,
+Codo,X,,,
+Mano,,X,,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,,,X
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,,X,,
+Dinámica,,X,,
+Marcha por terreno irregular,,,,X
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,,X
+Atención/complejidad,,,,
+Apremio,,,,X
+Dependencia,X,,,
+Visión,,,,
+Agudeza visual,,,,X
+Campo visual,,,,X
+Audición,,,,X
+Voz,X,,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  4352;JARDINEROS;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  4781;CARPINTERO DE MADERA RUSA;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  3973;COBRADORES;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  4715;PROFESORES;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  5434;PASEADOR DE PERROS;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  1579;ESCRITORES;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  3456;PARACAIDISTAS;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  3471;QUIMICOS;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  7684;MILITARES;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  6478;CATADORES DE TIKTOKS;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  3964;DISEÑADORES GRAFICOS;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  4813;BARRENDEROS;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  2457;ABOGADOS;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  6947;VIGILANTES;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  4258;OFICINISTAS;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;;;X;;Atención al público;;X;;
-Columna dorsolumbar;;;;X;;Toma de decisiones;;;X;
-Hombro;X;;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;;X;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;;X;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  7251;ENSAMBLADORES;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
 
-Código CNO-11:  4657;CATADORES DE TIKTOK;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga física;X;;;;;Carga mental;;;;
-Carga biomecánica;;;;;;Comunicación;;;X;
-Columna cervical;;X;;;;Atención al público;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atención/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visión;;;;
-Rodilla;X;;;;;Agudeza visual;;;;X
-Tobillo/pie;X;;;;;Campo visual;;;;X
-Manejo de cargas;X;;;;;Audición;;X;;
-Trabajo de precisión;;X;;;;Voz;;X;;
-Sedestación;;;X;;;Sensibilidad;;;;
-Bipedestación;;;;;;Superficial;;X;;
-Estática;X;;;;;Profunda;X;;;
-Dinámica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
+Código CNO-11:  9785;PATINADORES;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
+
+Código CNO-11:  6666;VENDEDORES;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
+
+Código CNO-11:  3111;VELOCISTAS;;;;;;;;;
+Requerimiento físico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga física,X,,,
+Carga biomecánica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisión,,X,,
+Sedestación,,,X,
+Bipedestación,,,,
+Estática,X,,,
+Dinámica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicación,,,X,
+Atención al público,,X,,
+Toma de decisiones,,,X,
+Atención/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visión,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audición,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
+
