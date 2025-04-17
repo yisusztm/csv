@@ -1,272 +1,288 @@
-C骴igo CNO-11:  2713;ANALISTAS, PROGRAMADORES Y DISE袮DORES WEB Y MULTIMEDIA;;;;;;;;;
+C贸digo CNO-11:  2713;ANALISTAS, PROGRAMADORES Y DISE脩ADORES WEB Y MULTIMEDIA;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  2943;ALBA袸LES;;;;;;;;;
+C贸digo CNO-11:  2943;ALBA脩ILES;;;;;;;;;
+Requerimiento f铆sico,Grado 1,Grado 2,Grado 3,Grado 4
+Carga f锟絪ica,X,,,
+Carga biomec锟絥ica,,,,
+Columna cervical,,X,,
+Columna dorsolumbar,,X,,
+Hombro,,X,,
+Codo,,X,,
+Mano,,,X,
+Cadera,X,,,
+Rodilla,X,,,
+Tobillo/pie,X,,,
+Manejo de cargas,X,,,
+Trabajo de precisi锟絥,,X,,
+Sedestaci锟絥,,,X,
+Bipedestaci锟絥,,,,
+Est锟絫ica,X,,,
+Din锟絤ica,X,,,
+Marcha por terreno irregular,X,,,
+Requerimiento mental,Grado 1,Grado 2,Grado 3,Grado 4
+Carga mental,,,,
+Comunicaci锟絥,,,X,
+Atenci锟絥 al p锟絙lico,,X,,
+Toma de decisiones,,,X,
+Atenci锟絥/complejidad,,,,
+Apremio,,X,,
+Dependencia,,X,,
+Visi锟絥,,,,
+Agudeza visual,,,X,
+Campo visual,,X,,
+Audici锟絥,,X,,
+Voz,,X,,
+Sensibilidad,,,,
+Superficial,,X,,
+Profunda,X,,,
+
+
+C贸digo CNO-11:  2363;CARPINTEROS;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  2363;CARPINTEROS;;;;;;;;;
+C贸digo CNO-11:  2746;CERRAJEROS;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  2746;CERRAJEROS;;;;;;;;;
+C贸digo CNO-11:  4352;JARDINEROS;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  4352;JARDINEROS;;;;;;;;;
+C贸digo CNO-11:  3973;COBRADORES;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  3973;COBRADORES;;;;;;;;;
+C贸digo CNO-11:  5434;PASEADOR DE PERROS;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  5434;PASEADOR DE PERROS;;;;;;;;;
+C贸digo CNO-11:  3456;PARACAIDISTAS;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  3456;PARACAIDISTAS;;;;;;;;;
+C贸digo CNO-11:  7684;MILITARES;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  7684;MILITARES;;;;;;;;;
+C贸digo CNO-11:  3964;DISE脩ADORES GRAFICOS;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  3964;DISE袮DORES GRAFICOS;;;;;;;;;
+C贸digo CNO-11:  2457;ABOGADOS;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  2457;ABOGADOS;;;;;;;;;
+C贸digo CNO-11:  4258;OFICINISTAS;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
-Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
-Codo;;X;;;;Apremio;;X;;
-Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
-Rodilla;X;;;;;Agudeza visual;;;X;
-Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
-Marcha por terreno irregular;X;;;;;;;;;
-
-C骴igo CNO-11:  4258;OFICINISTAS;;;;;;;;;
-REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
-;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;;;X;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;;;X;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;;;X;;Toma de decisiones;;;X;
-Hombro;X;;;;;Atenci髇/complejidad;;;;X
+Hombro;X;;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;;X;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;X;
 Tobillo/pie;X;;;;;Campo visual;;X;;
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;;X;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;;X;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
 
-C骴igo CNO-11:  4657;CATADORES DE TIKTOK;;;;;;;;;
+C贸digo CNO-11:  4657;CATADORES DE TIKTOK;;;;;;;;;
 REQUERIMIENTOS;GRADO;;;;;REQUERIMIENTOS;GRADO;;;
 ;1;2;3;4;;;1;2;3;4
-Carga f韘ica;X;;;;;Carga mental;;;;
-Carga biomec醤ica;;;;;;Comunicaci髇;;;X;
-Columna cervical;;X;;;;Atenci髇 al p鷅lico;;X;;
+Carga f铆sica;X;;;;;Carga mental;;;;
+Carga biomec谩nica;;;;;;Comunicaci贸n;;;X;
+Columna cervical;;X;;;;Atenci贸n al p煤blico;;X;;
 Columna dorsolumbar;;X;;;;Toma de decisiones;;;X;
-Hombro;;X;;;;Atenci髇/complejidad;;;;X
+Hombro;;X;;;;Atenci贸n/complejidad;;;;X
 Codo;;X;;;;Apremio;;X;;
 Mano;;;X;;;Dependencia;;X;;
-Cadera;X;;;;;Visi髇;;;;
+Cadera;X;;;;;Visi贸n;;;;
 Rodilla;X;;;;;Agudeza visual;;;;X
 Tobillo/pie;X;;;;;Campo visual;;;;X
-Manejo de cargas;X;;;;;Audici髇;;X;;
-Trabajo de precisi髇;;X;;;;Voz;;X;;
-Sedestaci髇;;;X;;;Sensibilidad;;;;
-Bipedestaci髇;;;;;;Superficial;;X;;
-Est醫ica;X;;;;;Profunda;X;;;
-Din醡ica;X;;;;;;;;;
+Manejo de cargas;X;;;;;Audici贸n;;X;;
+Trabajo de precisi贸n;;X;;;;Voz;;X;;
+Sedestaci贸n;;;X;;;Sensibilidad;;;;
+Bipedestaci贸n;;;;;;Superficial;;X;;
+Est谩tica;X;;;;;Profunda;X;;;
+Din谩mica;X;;;;;;;;;
 Marcha por terreno irregular;X;;;;;;;;;
