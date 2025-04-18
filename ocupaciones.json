@@ -1,0 +1,6616 @@
+{
+  "ocupaciones": [
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "7121",
+      "nombre": "Albañil",
+      "descripcion_tareas": [
+        "Construir muros, pisos y estructuras de concreto.",
+        "Leer planos básicos y preparar mezclas de materiales.",
+        "Manejar herramientas manuales y eléctricas."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Alta",
+          "resistencia": "Alta",
+          "movilidad": "Alta",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Baja",
+          "toma_decisiones": "Media"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Caídas a distinto nivel",
+          "Cortes y golpes",
+          "Sobreesfuerzo físico"
+        ],
+        "riesgos_ambientales": [
+          "Ruido alto",
+          "Exposición al polvo y materiales químicos",
+          "Condiciones climáticas variables"
+        ]
+      }
+    },
+    {
+      "clave": "2211",
+      "nombre": "Médico general",
+      "descripcion_tareas": [
+        "Evaluar y diagnosticar pacientes.",
+        "Prescribir tratamientos.",
+        "Realizar procedimientos médicos menores."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Baja",
+          "resistencia": "Media",
+          "movilidad": "Media",
+          "destreza_manual": "Alta"
+        },
+        "mentales": {
+          "atencion": "Alta",
+          "memoria": "Alta",
+          "toma_decisiones": "Alta"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Buena"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Exposición a agentes biológicos",
+          "Fatiga mental",
+          "Errores por sobrecarga cognitiva"
+        ],
+        "riesgos_ambientales": [
+          "Ambientes cerrados",
+          "Luz artificial",
+          "Cambio de turnos nocturnos"
+        ]
+      }
+    },
+    {
+      "clave": "4411",
+      "nombre": "Empleado de oficina",
+      "descripcion_tareas": [
+        "Gestionar documentos y archivos.",
+        "Atender llamadas y correos electrónicos.",
+        "Elaborar reportes y hojas de cálculo."
+      ],
+      "requerimientos": {
+        "fisicos": {
+          "fuerza": "Baja",
+          "resistencia": "Baja",
+          "movilidad": "Baja",
+          "destreza_manual": "Media"
+        },
+        "mentales": {
+          "atencion": "Media",
+          "memoria": "Media",
+          "toma_decisiones": "Baja"
+        },
+        "sensoriales": {
+          "vision": "Buena",
+          "audicion": "Media"
+        }
+      },
+      "riesgos_y_condiciones": {
+        "riesgos_laborales": [
+          "Fatiga visual",
+          "Dolores musculares por postura",
+          "Estrés leve"
+        ],
+        "riesgos_ambientales": [
+          "Espacios cerrados",
+          "Ambientes sedentarios",
+          "Uso prolongado de computadoras"
+        ]
+      }
+    }
+  ]
+}
