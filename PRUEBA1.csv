@@ -27,7 +27,7 @@ Entre sus tareas se incluyen:
 -  3A01 y 3B01: Enfermedades profesionales causadas por agentes biológicos
 -  4H y 4I: Enfermedades causadas por la inhalación de sustancias de alto peso molecular (sustancias de origen  vegetal,  animal,  microorganismos,  y  sustancias  enzimáticas  de  origen  vegetal,  animal  y/o  de microorganismos)  y  sustancias  de  bajo  peso  molecular  (metales  y  sus  sales,  polvos  de  maderas, productos   farmacéuticos,   sustancias   químico   plásticas,   aditivos,   etc.):   Rinoconjuntivitis,   Asma, Alveolitis  alérgica  extrínseca,  S.  de  Disfunción  de  la  vía  aérea  reactiva,  Fibrosis  intersticial  difusa, Neumopatía intersticial difusa, Urticarias, Angioedemas y otras  de mecanismo impreciso
 -  5A01, 5B01, 5D01: Enfermedades de la piel causadas por sustancias de bajo peso molecular (productos farmacéuticos,  sustancias  químico?plásticas,  látex,  aditivos,  etc.)  sustancias  de  alto  peso  molecular (origen vegetal, animal, microorganismos, etc.) y agentes infecciosos
--  6C01 a 6C04: neoplasias relacionadas con el uso de pesticidas, herbicidas, etc.)",,,,,,,,,, |
+-  6C01 a 6C04: neoplasias relacionadas con el uso de pesticidas, herbicidas, etc.)",,,,,,,,,, 
 ,,,,,,,,,,
 Código CNO-11:  6120,"TRABAJADORES CUALIFICADOS EN HUERTAS, INVERNADEROS, VIVEROS Y JARDINES",,,,,,,,,
 REQUERIMIENTOS,GRADO,,,,,REQUERIMIENTOS,GRADO,,,
@@ -295,7 +295,7 @@ Entre sus tareas se incluyen:
 "POSIBLES MENCIONES EN EL CUADRO DE ENFERMEDADES PROFESIONALES:
 -  3A01?3B01: enfermedades profesionales causadas por agentes biológicos
 -  4H y 4I: Enfermedades causadas por la inhalación de sustancias de alto peso molecular (sustancias de origen  vegetal,  animal,  microorganismos,  y  sustancias  enzimáticas  de  origen  vegetal,  animal  y/o  de microorganismos)  y  sustancias  de  bajo  peso  molecular  (metales  y  sus  sales,  polvos  de  maderas, productos   farmacéuticos,   sustancias   químico   plásticas,   aditivos,   etc.):   Rinoconjuntivitis,   Asma, Alveolitis  alérgica  extrínseca,  S.  de  Disfunción  de  la  vía  aérea  reactiva,  Fibrosis  intersticial  difusa, Neumopatía intersticial difusa, Urticarias, Angioedemas y otras  de mecanismo impreciso
--  5A01,  5B01:  Enfermedades  de  la  piel  causadas  por  sustancias  de  bajo  peso  molecular  (productos farmacéuticos,  sustancias  químico?plásticas,  látex,  aditivos,  etc.)  sustancias  de  alto  peso  molecular (origen vegetal, animal, microorganismos, etc.)",,,,,,,,,, |
+-  5A01,  5B01:  Enfermedades  de  la  piel  causadas  por  sustancias  de  bajo  peso  molecular  (productos farmacéuticos,  sustancias  químico?plásticas,  látex,  aditivos,  etc.)  sustancias  de  alto  peso  molecular (origen vegetal, animal, microorganismos, etc.)",,,,,,,,,,
 ,,,,,,,,,,
 Código CNO-11:  6204,TRABAJADORES CUALIFICADOS EN APICULTURA Y SERICICULTURA,,,,,,,,,
 REQUERIMIENTOS,GRADO,,,,,REQUERIMIENTOS,GRADO,,,
@@ -503,7 +503,7 @@ Entre sus tareas se incluyen:
 -  3A01 y 3B01: Enfermedades profesionales causadas por agentes biológicos
 -  4H y 4I: Enfermedades causadas por la inhalación de sustancias de alto peso molecular (sustancias de origen  vegetal,  animal,  microorganismos,  y  sustancias  enzimáticas  de  origen  vegetal,  animal  y/o  de microorganismos)  y  sustancias  de  bajo  peso  molecular  (metales  y  sus  sales,  polvos  de  maderas, productos   farmacéuticos,   sustancias   químico   plásticas,   aditivos,   etc.):   Rinoconjuntivitis,   Asma, Alveolitis  alérgica  extrínseca,  S.  de  Disfunción  de  la  vía  aérea  reactiva,  Fibrosis  intersticial  difusa, Neumopatía intersticial difusa, Urticarias, Angioedemas y otras  de mecanismo impreciso
 -  5A01, 5B01, 5D01: Enfermedades de la piel causadas por sustancias de bajo peso molecular (productos farmacéuticos,  sustancias  químico?plásticas,  látex,  aditivos,  etc.)  sustancias  de  alto  peso  molecular (origen vegetal, animal, microorganismos, etc.) y agentes infecciosos.
--  6C01 a 6C04: neoplasias relacionadas con el uso de pesticidas, herbicidas, etc.)",,,,,,,,,, |
+-  6C01 a 6C04: neoplasias relacionadas con el uso de pesticidas, herbicidas, etc.)",,,,,,,,,, 
 ,,,,,,,,,,
 Código CNO-11:  6300,TRABAJADORES CUALIFICADOS EN ACTIVIDADES AGROPECUARIAS MIXTAS,,,,,,,,,
 REQUERIMIENTOS,GRADO,,,,,REQUERIMIENTOS,GRADO,,,
@@ -1788,7 +1788,7 @@ Entre sus tareas se incluyen:
 -  supervisar a otros trabajadores.",,,,,,,,,,
 "POSIBLES MENCIONES EN EL CUADRO DE ENFERMEDADES PROFESIONALES:
 -  1A0912: extracción, tratamiento, preparación y empleo del plomo
--  2G0101:  lesiones  del  menisco  por  mecanismo  de  compresión  y  arrancamiento  asociados  (posturas mantenidas en hiperflexión de rodillas, cuclillas, etc.)",,,,,,,,,, |
+-  2G0101:  lesiones  del  menisco  por  mecanismo  de  compresión  y  arrancamiento  asociados  (posturas mantenidas en hiperflexión de rodillas, cuclillas, etc.)",,,,,,,,,,
 ,,,,,,,,,,
 Código CNO-11:  7222,MONTADORES-INSTALADORES DE GAS EN EDIFICIOS,,,,,,,,,
 REQUERIMIENTOS,GRADO,,,,,REQUERIMIENTOS,GRADO,,,
@@ -1852,7 +1852,7 @@ Entre sus tareas se incluyen:
 -  supervisar a otros trabajadores.",,,,,,,,,,
 "POSIBLES MENCIONES EN EL CUADRO DE ENFERMEDADES PROFESIONALES:
 -  1A0912: extracción, tratamiento, preparación y empleo del plomo
--  2G0101:  lesiones  del  menisco  por  mecanismo  de  compresión  y  arrancamiento  asociados  (posturas mantenidas en hiperflexión de rodillas, cuclillas, etc.)",,,,,,,,,, |
+-  2G0101:  lesiones  del  menisco  por  mecanismo  de  compresión  y  arrancamiento  asociados  (posturas mantenidas en hiperflexión de rodillas, cuclillas, etc.)",,,,,,,,,, 
 ,,,,,,,,,,
 Código CNO-11:  7223,INSTALADORES DE CONDUCTOS EN OBRA PÚBLICA,,,,,,,,,
 REQUERIMIENTOS,GRADO,,,,,REQUERIMIENTOS,GRADO,,,
@@ -2129,7 +2129,7 @@ Entre sus tareas se incluyen:
 -  probar sistemas, diagnosticar averías y realizar actividades normales de mantenimiento o reparaciones menores.",,,,,,,,,,
 "POSIBLES MENCIONES EN EL CUADRO DE ENFERMEDADES PROFESIONALES:
 -  1A0912: extracción, tratamiento, preparación y empleo del plomo
--  2G0101:  lesiones  del  menisco  por  mecanismo  de  compresión  y  arrancamiento  asociados  (posturas mantenidas en hiperflexión de rodillas, cuclillas, etc.)",,,,,,,,,, |
+-  2G0101:  lesiones  del  menisco  por  mecanismo  de  compresión  y  arrancamiento  asociados  (posturas mantenidas en hiperflexión de rodillas, cuclillas, etc.)",,,,,,,,,, 
 ,,,,,,,,,,
 Código CNO-11:  7250,MECÁNICOS-INSTALADORES DE REFRIGERACIÓN Y CLIMATIZACIÓN,,,,,,,,,
 REQUERIMIENTOS,GRADO,,,,,REQUERIMIENTOS,GRADO,,,
@@ -2631,7 +2631,7 @@ POSIBLES RIESGOS  Y CIRCUNSTANCIAS ESPECÍFICAS,,,,,,,,,,
 -   Manejo de materiales o sustancias inflamables
 -  Manejo de materiales explosivos
 -  Manejo de equipos eléctricos
--  Otros riesgos por utilización de equipos básicos (buzo)",,,,,,,,,, |
+-  Otros riesgos por utilización de equipos básicos (buzo)",,,,,,,,,, 
 "CIRCUNSTANCIAS ESPECÍFICAS DEL MEDIO LABORAL:
 -  Trabajos en alturas
 -  Trabajos en intemperie
@@ -2703,7 +2703,7 @@ POSIBLES RIESGOS  Y CIRCUNSTANCIAS ESPECÍFICAS,,,,,,,,,,
 -  Manejo de equipos o herramientas con elementos cortantes, punzantes o   perforantes.
 -   Manejo de materiales o sustancias inflamables
 -  Manejo de equipos eléctricos
--  Otros riesgos por utilización de equipos básicos (buzo)",,,,,,,,,, |
+-  Otros riesgos por utilización de equipos básicos (buzo)",,,,,,,,,, 
 "CIRCUNSTANCIAS ESPECÍFICAS DEL MEDIO LABORAL:
 -  No constan",,,,,,,,,, |
 ,,,,,,,,,,
